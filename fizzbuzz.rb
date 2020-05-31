@@ -1,4 +1,4 @@
-x = 15
+x = 5 
 
 def fizzbuzz (x)
   
