@@ -7,7 +7,7 @@ end
 if x % 3
   puts "Fizz"
 elsif x % 5
-  puts "Fizz"
+  puts "Buzz"
 elsif x % 15
   puts "FizzBuzz"
 else 
