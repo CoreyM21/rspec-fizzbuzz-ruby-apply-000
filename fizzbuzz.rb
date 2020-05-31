@@ -1,4 +1,4 @@
-x = 15
+x = 
 
 def fizzbuzz(x)
   x / 3
