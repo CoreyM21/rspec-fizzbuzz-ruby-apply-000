@@ -1,7 +1,3 @@
-def fizzbuzz
-  
-end
-
 def fizzbuzz (x)
   x % 3
 end
