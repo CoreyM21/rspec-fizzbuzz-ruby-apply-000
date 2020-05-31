@@ -1,8 +1,6 @@
-def fizzbuzz(x = "15")
+def fizzbuzz(int = "15")
   puts "#{x}"
-end
-
-if "x" == x / 3
+  if "x" == x / 3
   puts "Fizz"
 elsif "x" == x / 5 
   puts "Buzz"
@@ -11,4 +9,6 @@ elsif "x" == x / 3 && x / 5
 else 
   puts "nil"
 end
+end
+
 
