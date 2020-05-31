@@ -8,7 +8,7 @@ if x == x / 3
   puts "Fizz"
 elsif x == x /3 
   puts "Buzz"
-elsif x =
+elsif x == x / 3 == 
   puts "FizzBuzz"
 else 
   puts "Nil"
