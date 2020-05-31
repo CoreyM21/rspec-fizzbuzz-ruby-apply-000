@@ -1,13 +1,19 @@
 require_relative './spec_helper.rb'
 # We are missing a 'require_relative' here. Check README.md for instructions and an explanation! 
 
+def fizzbuzz (x)
+  x / 3
+end
+
 if x / 3
   puts "fizzbuzz"
 elseif x / 5
   puts "Fizz"
 elseif x / 15
   putss "fizzbuzz"
-els
+else 
+  puts "Nil"
+end
   
 
 describe "fizzbuzz" do
