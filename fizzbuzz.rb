@@ -1,4 +1,4 @@
-x = [""] 
+x = [3, 5, 15]
 
 def fizzbuzz(x)
   
