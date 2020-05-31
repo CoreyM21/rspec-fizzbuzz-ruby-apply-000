@@ -1,4 +1,4 @@
-x = 5 
+x = [] 
 
 def fizzbuzz (x)
   
