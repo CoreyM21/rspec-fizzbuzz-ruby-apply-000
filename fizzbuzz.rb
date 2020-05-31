@@ -9,7 +9,7 @@ if x % 3
 elseif x % 5
   puts "Fizz"
 elseif x % 15
-  puts "fizzbuzz"
+  puts "FizzBuzz"
 else 
   puts "Nil"
 end
