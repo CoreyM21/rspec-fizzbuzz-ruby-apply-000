@@ -1,4 +1,4 @@
-x = [" "]
+x = 5
 
 def fizzbuzz(x)
   x / 3
