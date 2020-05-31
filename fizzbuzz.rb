@@ -5,7 +5,7 @@ def fizzbuzz (x)
 end
 
 if x % 3
-  puts "fizzbuzz"
+  puts "Fizz"
 elsif x % 5
   puts "Fizz"
 elsif x % 15
