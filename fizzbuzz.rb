@@ -1,4 +1,4 @@
-def fizzbuzz(x = 15)
+def fizzbuzz(x = "15")
   puts "#{x}"
 end
 
