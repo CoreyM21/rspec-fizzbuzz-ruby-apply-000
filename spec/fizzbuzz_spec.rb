@@ -2,8 +2,13 @@ require_relative './spec_helper.rb'
 # We are missing a 'require_relative' here. Check README.md for instructions and an explanation! 
 
 if x / 3
+  puts "fizzbuzz"
+elseif x / 5
   puts "Fizz"
-elseif x 
+elseif x / 15
+  putss "fizzbuzz"
+els
+  
 
 describe "fizzbuzz" do
   it 'returns "Fizz" when the number is divisible by 3' do
