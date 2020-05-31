@@ -1,7 +1,7 @@
 x = 5
 
 def fizzbuzz(x)
-  x / 3
+  #{x} / 3 
 end
 
 if x == x / 3
