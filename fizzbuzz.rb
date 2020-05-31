@@ -13,3 +13,5 @@ elsif x == x / 3 && x / 5
 else 
   puts "nil"
 end
+
+def display_board( )
