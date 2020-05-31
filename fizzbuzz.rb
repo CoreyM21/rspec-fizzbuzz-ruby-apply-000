@@ -1,7 +1,7 @@
 x = 15
 
 def fizzbuzz (x)
-  x % 3
+  
 end
 
 if x % 3
